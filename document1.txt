@@ -14,7 +14,8 @@ def partition(l, r, nums):
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
 #두번째 수정문을 이렇게 적으면은 좀 길도록 하면 잘 보이지 않을까??
-# 세번째 수정문을 이허게 길게 적으면 잘 보이게 될꺼야~!
+
+10101010101010101010
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
